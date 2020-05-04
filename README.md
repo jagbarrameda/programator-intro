@@ -9,5 +9,5 @@ Repositorio de ayuda al curso de introducción a la programación en java (para 
    1. Primer Programa Java en la terminal - [video](https://youtu.be/frED3u76Rqo)
    1. Primer Programa Java en IntelliJ IDEA
    1. Datos y operaciones: tipos de datos, variables y operaciones
-   1. Logica y control de flujo: if, for, while
+   1. Logica y control de flujo: `if`, `for`, `while`
    1. Organizando el código: paquetes de java, clases y metodos
